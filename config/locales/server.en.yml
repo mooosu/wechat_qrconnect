@@ -1,0 +1,6 @@
+# encoding: utf-8
+
+en:
+  site_settings:
+    wechat_qrconnect_client_id: "Client id for Wechat authentication"
+    wechat_qrconnect_client_secret: "Client secret for Wechat authentication"

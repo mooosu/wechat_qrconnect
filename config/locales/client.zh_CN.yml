@@ -1,0 +1,8 @@
+# encoding: utf-8
+
+zh_CN:
+  js:
+    login:
+      wechat_qrconnect:
+        title: "使用 微信 帐号登录"
+        message: "使用 微信 帐号验证登录（请确保没有禁止浏览器弹出对话框）"

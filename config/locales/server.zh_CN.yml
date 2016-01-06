@@ -1,0 +1,6 @@
+# encoding: utf-8
+
+zh_CN:
+  site_settings:
+    wechat_qrconnect_client_id: "微信 帐号验证的客户端帐号（Client id），到 https://open.weixin.qq.com/ 来注册获取"
+    wechat_qrconnect_client_secret: "微信 帐号验证的客户端密码（Client secret），到 https://open.weixin.qq.com/ 来注册获取"

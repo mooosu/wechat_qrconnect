@@ -1,0 +1,5 @@
+login:
+  wechat_qrconnect_client_id:
+    default: ''
+  wechat_qrconnect_client_secret:
+    default: ''
